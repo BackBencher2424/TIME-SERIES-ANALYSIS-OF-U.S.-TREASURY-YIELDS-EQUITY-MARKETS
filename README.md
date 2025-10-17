@@ -37,7 +37,7 @@ The goal is to build intuition for how rate regimes map to equity risk and to ou
 This repo intentionally contains **one notebook** (the project itself):
 
 ```
-A10-TIME-SERIES-ANALYSIS-OF-U-S-TREASURY-YIELDS-AND-EQUITY-MARKETS-FOR-IMPROVED-FORECASTING (1).ipynb
+A10-TIME-SERIES-ANALYSIS-OF-U-S-TREASURY-YIELDS-AND-EQUITY-MARKETS-FOR-IMPROVED-FORECASTING.ipynb
 ```
 
 ---
@@ -93,7 +93,7 @@ The notebook reads the following CSV files from the working directory:
 
 ## ▶️ How to Run
 
-1. **Clone** or download this repo (it contains only the notebook).  
+1. **Clone** or download this repo (it contains only the notebook and the datasets).  
 2. Place the input CSVs (listed above) next to the notebook or adjust paths in the loading cells.  
 3. Open the notebook with Jupyter/Colab and **run cells top‑to‑bottom**.
 
@@ -139,5 +139,3 @@ The notebook reads the following CSV files from the working directory:
 Please cite the notebook by repository name and commit if used in reports or coursework.
 
 ---
-
-> _Made with 📈, 📉, and a lot of ☕._
